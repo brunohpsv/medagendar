@@ -1,0 +1,7 @@
+{
+  "name": "MedAgendar",
+  "description": "Plataforma inteligente de agendamento médico com assistente de IA para triagem e busca de especialistas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
